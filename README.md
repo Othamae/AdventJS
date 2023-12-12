@@ -17,6 +17,6 @@
 |  [#7](https://github.com/Othamae/AdventJS/tree/main/2023/Day%207)    | [📦 The 3D boxes](https://github.com/Othamae/AdventJS/blob/main/2023/Day%207/Instructions.md)  | <span style="color:green">**Easy**</span> 🟢| [TypeScript](https://github.com/Othamae/AdventJS/blob/main/2023/Day%207/challenge_07.ts)    |
 |  [#8](https://github.com/Othamae/AdventJS/tree/main/2023/Day%208)    | [🏬 Sorting the warehouse](https://github.com/Othamae/AdventJS/blob/main/2023/Day%208/Instructions.md)  | <span style="color:orange">**Medium**</span> 🟡| [TypeScript](https://github.com/Othamae/AdventJS/blob/main/2023/Day%208/challenge_08.ts)    |
 |  [#9](https://github.com/Othamae/AdventJS/tree/main/2023/Day%209)    | [🚦 Switch the lights](https://github.com/Othamae/AdventJS/blob/main/2023/Day%209/Instructions.md)  | <span style="color:green">**Easy**</span> 🟢| [TypeScript](https://github.com/Othamae/AdventJS/blob/main/2023/Day%209/challenge_09.ts)    |
-
+|  [#10](https://github.com/Othamae/AdventJS/tree/main/2023/Day%2010)    | [🎄 Create your own Christmas tree](https://github.com/Othamae/AdventJS/blob/main/2023/Day%2010/Instructions.md)  | <span style="color:green">**Easy**</span> 🟢| [TypeScript](https://github.com/Othamae/AdventJS/blob/main/2023/Day%2010/challenge_10.ts)    |
 
 
